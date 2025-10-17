@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "your-github-username",
+        "email": "[email protected]"
+    },
+    "records": {
+        "TXT": "vc-domain-verify=stanton.is-a.dev,e58a1aa4334e46cc7d44"
+    }
+}
